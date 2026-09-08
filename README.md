@@ -27,25 +27,18 @@
 ![SAP](https://img.shields.io/badge/SAP%20Datasphere-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-✨ and some more....
-
 </div>
+
+✨ and some more....
 
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<div align="center">
-
-📊 Turning messy data into something you can actually decide on.
-
-🤖 Focus on the **AI track** of my degree — machine learning, statistics, and everything around it.
-
-🛠️ I build things I use myself: a training app for my friends, a hockey prediction game, a stock screener.
-
-🧩 Driven by curiosity and the challenge of solving complex problems.
-
-</div>
+- 📊 Turning messy data into something you can actually decide on.
+- 🤖 Focus on the **AI track** of my degree — machine learning, statistics, and everything around it.
+- 🛠️ I build things I use myself: a training app for my friends, a hockey prediction game, a stock screener.
+- 🧩 Driven by curiosity and the challenge of solving complex problems.
 
 ---
 
