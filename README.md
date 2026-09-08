@@ -19,6 +19,8 @@
 ![SAP](https://img.shields.io/badge/SAP%20Datasphere-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
+✨and some more....
 ---
 
 ## 👨‍💻 About Me
