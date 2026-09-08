@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! 👋</h1>
+<h1 align="center">✨ Welcome to my Profile! ✨</h1>
 
 <h2 align="center">My Name ist Yannick!</h2>
 
@@ -16,6 +16,8 @@
 
 <h2 align="center">🚀 Tech & Tools</h2>
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,26 +29,39 @@
 
 ✨ and some more....
 
+</div>
+
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 📊 Turning messy data into something you can actually decide on.
-- 🤖 Focus on the **AI track** of my degree — machine learning, statistics, and everything around it.
-- 🛠️ I build things I use myself: a training app for my friends, a hockey prediction game, a stock screener.
-- 🧩 Driven by curiosity and the challenge of solving complex problems.
+<div align="center">
+
+📊 Turning messy data into something you can actually decide on.
+
+🤖 Focus on the **AI track** of my degree — machine learning, statistics, and everything around it.
+
+🛠️ I build things I use myself: a training app for my friends, a hockey prediction game, a stock screener.
+
+🧩 Driven by curiosity and the challenge of solving complex problems.
+
+</div>
 
 ---
 
 <h2 align="center">📌 My Projects</h2>
 
+<div align="center">
+
 | Project | What it is |
-| --- | --- |
+| :---: | :---: |
 | 🏒 **Adler Tippspiel** | Prediction game for the DEL season — built for my friends, Adler Mannheim edition |
 | 🏋️ **Gym Rank** | Training app with a ranking system, self-hosted for my training group |
 | 📈 **Stock Radar** | Stock screener that filters companies by my own criteria |
 | 🩺 **Arztpraxis zur Spritze** | Python/Tkinter practice management system (university project) |
 | 🍽️ **Kalorien-Tracker** | Calorie and nutrition tracking, built to fit how I actually eat |
+
+</div>
 
 ---
 
@@ -66,9 +81,5 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yannickmdl&background=45,8A2BE2,E754A6,FFA657&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFFAA&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=true)](https://git.io/streak-stats)
-
-![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannickmdl&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannickmdl&layout=compact&hide_border=true)
 
 </div>
