@@ -1,6 +1,6 @@
 <h1 align="center">✨ Welcome to my Profile! ✨</h1>
 
-<h2 align="center">My Name ist Yannick!</h2>
+<h2 align="center">My name is Yannick!</h2>
 
 <div align="center">
 
