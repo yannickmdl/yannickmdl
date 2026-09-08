@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to my Profile! ✨</h1>
+<h1 align="center">Welcome! 👋</h1>
 
 <h2 align="center">My Name ist Yannick!</h2>
 
@@ -66,5 +66,9 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yannickmdl&background=45,8A2BE2,E754A6,FFA657&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFFAA&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=true)](https://git.io/streak-stats)
+
+![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannickmdl&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannickmdl&layout=compact&hide_border=true)
 
 </div>
