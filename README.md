@@ -1,14 +1,20 @@
-# Welcome! 👋
+<h1 align="center">Welcome! 👋</h1>
 
-## My Name ist Yannick!
+<h2 align="center">My Name ist Yannick!</h2>
+
+<div align="center">
 
 🎓 I'm a **dual student in Data Science & Artificial Intelligence** at the **DHBW Mannheim**, working with **Freudenberg & Co. KG** in *Data Analysis and Finance*.
+
 💡 Into **data, machine learning, automation** and building small tools that actually get used.
+
 🏒 Off-screen: handball, football and a lot of **Adler Mannheim**.
+
+</div>
 
 ---
 
-## 🚀 Tech & Tools
+<h2 align="center">🚀 Tech & Tools</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -23,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 - 📊 Turning messy data into something you can actually decide on.
 - 🤖 Focus on the **AI track** of my degree — machine learning, statistics, and everything around it.
@@ -32,7 +38,7 @@
 
 ---
 
-## 📌 Projects
+<h2 align="center">📌 My Projects</h2>
 
 | Project | What it is |
 | --- | --- |
@@ -44,17 +50,25 @@
 
 ---
 
+<h2 align="center">📬 How to reach me</h2>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/yannick.miedl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannick.miedl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yannickmdl)
+
+</div>
+
+---
+
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yannickmdl&background=45,8A2BE2,E754A6,FFA657&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFFAA&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=true)](https://git.io/streak-stats)
 
+![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannickmdl&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannickmdl&layout=compact&hide_border=true)
+
 </div>
-
----
-
-## 📫 Get in touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannick.miedl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yannickmdl)
