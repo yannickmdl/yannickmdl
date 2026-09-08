@@ -19,6 +19,8 @@
 ![SAP](https://img.shields.io/badge/SAP%20Datasphere-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+✨ and some more....
+
 ---
 
 ## 👨‍💻 About Me
@@ -42,11 +44,17 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 
-![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannickmdl&show_icons=true&theme=default&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannickmdl&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yannickmdl&background=45,8A2BE2,E754A6,FFA657&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFFAA&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=true)](https://git.io/streak-stats)
+
+![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannickmdl&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannickmdl&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
